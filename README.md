@@ -77,11 +77,11 @@ src
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/b452e327-25bc-4ba3-81fb-a71f5324fbb6" alt="GET" width="400"/>
+     <img width="400" alt="GET" src="https://github.com/user-attachments/assets/3ef826ef-da87-4e09-9f23-93dc84f73d0a" />
       </td>
       <td></td>
       <td>
-        <img src="https://github.com/user-attachments/assets/a9ce2185-ca52-4e84-8184-55c58e8d297d" alt="POST" width="400"/>
+         <img width="400" alt="POST" src="https://github.com/user-attachments/assets/30d3a840-f38e-420b-83de-6dbc33834435" />
       </td>
     </tr>
   </table>
